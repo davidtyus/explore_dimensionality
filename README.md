@@ -1,2 +1,2 @@
 # explore_dimensionality
-Doing Small 
+Doing Small Projects to Explore Dimensionality in Data
